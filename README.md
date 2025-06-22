@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/✉️-mathieu.renaud29@gmail.com-red)](mailto:mathieu.renaud29@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Montreal%2C%20Canada-lightgrey)](https://www.google.com/maps/place/Montreal)
 [![GitHub](https://img.shields.io/badge/GitHub-Equinoxis-black)](https://github.com/Equinoxis)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathieu%20Renaud-blue)](https://www.linkedin.com/in/mathieu-renaud/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathieu%20Renaud-blue)](https://www.linkedin.com/in/mathieu-renaud-inge/)
 [![Website](https://img.shields.io/badge/🌐-mathieurenaud.fr-brightgreen)](https://mathieurenaud.fr)
 
 ---
